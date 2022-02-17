@@ -1,0 +1,10 @@
+G:\360MoveData\Users\wili\Desktop\C#\hw\Final\1082055\1082055\bin\Debug\1082055.exe.config
+G:\360MoveData\Users\wili\Desktop\C#\hw\Final\1082055\1082055\bin\Debug\1082055.exe
+G:\360MoveData\Users\wili\Desktop\C#\hw\Final\1082055\1082055\bin\Debug\1082055.pdb
+G:\360MoveData\Users\wili\Desktop\C#\hw\Final\1082055\1082055\obj\Debug\1082055.csprojAssemblyReference.cache
+G:\360MoveData\Users\wili\Desktop\C#\hw\Final\1082055\1082055\obj\Debug\_1082055.Form1.resources
+G:\360MoveData\Users\wili\Desktop\C#\hw\Final\1082055\1082055\obj\Debug\_1082055.Properties.Resources.resources
+G:\360MoveData\Users\wili\Desktop\C#\hw\Final\1082055\1082055\obj\Debug\1082055.csproj.GenerateResource.cache
+G:\360MoveData\Users\wili\Desktop\C#\hw\Final\1082055\1082055\obj\Debug\1082055.csproj.CoreCompileInputs.cache
+G:\360MoveData\Users\wili\Desktop\C#\hw\Final\1082055\1082055\obj\Debug\1082055.exe
+G:\360MoveData\Users\wili\Desktop\C#\hw\Final\1082055\1082055\obj\Debug\1082055.pdb
